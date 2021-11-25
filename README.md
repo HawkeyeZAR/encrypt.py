@@ -10,8 +10,9 @@ It uses the cryptography.fernet library
 
 > **Usage:**
 
-> - python encrypt.py `[in_file] [out_file] [option]`
-> - Available options are: `encrypt` and `decrypt`
+python encrypt.py `[in_file]` `[out_file]` `[option]`
+ 
+Available options are: `encrypt` and `decrypt`
 
 
 ----------
